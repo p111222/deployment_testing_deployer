@@ -5,7 +5,7 @@ cd /nsldev/prince_deployer/
 sudo rm -r ./deployment_testing
 
 # Pull latest changes
-sudo git clone https://p111222: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@github.com/p111222/deployment_testing.git
+sudo git clone https://p111222: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@github.com/p111222/deployment_testing.git
 
 # Build the client
 cd /nsldev/prince_deployer/deployment_testing/client
