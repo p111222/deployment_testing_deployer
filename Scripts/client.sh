@@ -24,4 +24,4 @@ cd /nsldev/prince_deployer/deployment_testing/client
 docker build -t deployment_testing_client .
 
 # Run Docker container
-docker run -d -p 4001:80 --name deployment_testing_client deployment_testing_client
+docker run -d -p 6001:80 --name deployment_testing_client deployment_testing_client
